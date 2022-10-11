@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/alexanderkalema" target="blank"><img src="https://img.shields.io/twitter/follow/alexanderkalema?logo=twitter&style=for-the-badge" alt="alexanderkalema" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Html, CSS, JavaScript, C++, Phython**
+- 💬 Ask me about **Html, CSS, JavaScript, C++, Phython, Java, Dart(Flutter)**
 
 - 📫 How to reach me **alexanderkalema@gmail.com**
 
-- ⚡ Fun fact **Your friendly neighborhood, that's me!**
+- ⚡ Fun fact **Your friendly IT neighborhood, that's me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
