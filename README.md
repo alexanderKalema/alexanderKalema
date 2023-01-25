@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Html, CSS, JavaScript, C++, Phython, Java, Dart(Flutter) **
 
+-  Intermediate Skill in **PHP , NodeJS**
+
 - 📫 How to reach me **alexanderkalema@gmail.com**
 
 - ⚡ Fun fact **Your friendly IT neighborhood, that's me!**
