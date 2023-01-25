@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **Html, CSS, JavaScript, C++, Phython, Java, Dart(Flutter) **
+- 💬 Ask me about **Html, CSS, JavaScript, C++, Phython, Java, Dart(Flutter), Latex **
 
 -  Intermediate Skill in **PHP , NodeJS**
 
