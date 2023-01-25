@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **Html, CSS, JavaScript, C++, Phython, Java, Dart(Flutter), Latex **
 
--  Intermediate Skill in **PHP , NodeJS**
+- Intermediate Skill in **PHP , NodeJS**
+
+- I am a computer science student at Addis Ababa University  
 
 - 📫 How to reach me **alexanderkalema@gmail.com**
 
