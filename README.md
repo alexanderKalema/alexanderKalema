@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/alexanderkalema" target="blank"><img src="https://img.shields.io/twitter/follow/alexanderkalema?logo=twitter&style=for-the-badge" alt="alexanderkalema" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **Html, CSS, JavaScript, C++, Phython, Java, Dart(Flutter), Latex **
 
-- Intermediate Skill in **PHP , NodeJS**
+- Junior Skill in **PHP , NodeJS**
 
 - I am a computer science student at Addis Ababa University  
 
